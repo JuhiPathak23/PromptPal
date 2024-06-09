@@ -5,8 +5,8 @@ Welcome to PromptPal, your ultimate assistant for generating prompts and diving 
 
 ##Have a look at PromptPal
 
-![promptpal](https://github.com/JuhiPathak23/PromptPal/assets/73741643/3ec87df0-4e13-4828-873c-9e5af25e64c5)
 ![Screenshot 2024-06-09 172914](https://github.com/JuhiPathak23/PromptPal/assets/73741643/a9123459-7c36-4866-b928-6379c238e9dd)
+---
 ![Screenshot 2024-06-09 172959](https://github.com/JuhiPathak23/PromptPal/assets/73741643/495d442b-ac67-45a8-a112-2c8b502c52b6)
 ![Screenshot 2024-06-09 173048](https://github.com/JuhiPathak23/PromptPal/assets/73741643/d985a822-c345-4d0b-85fa-88cec93a22bd)
 
