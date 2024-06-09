@@ -35,7 +35,7 @@ Literature
 and many more!
 
 ##Feedback and Support
-I welcome your feedback and suggestions to improve PromptPal. If you encounter any issues or have ideas for new features, please reach out to me via [email](pathakkakul@gmail.com) or GitHub Issues.
+I welcome your feedback and suggestions to improve PromptPal. If you encounter any issues or have ideas for new features, please reach out to me via pathakkakul@gmail.com or GitHub Issues.
 
 ##Contribute
 Since this is my noob attempt at creating a Chrome extension, if you're interested in contributing to PromptPal, feel free to fork the repository, make your changes, and submit a pull request.
